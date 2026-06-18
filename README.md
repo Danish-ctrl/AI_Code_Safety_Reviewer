@@ -21,6 +21,16 @@ Designed as a practical cybersecurity portfolio project, this application combin
 ## Demo
 
 > *(Add screenshots or a GIF here after the project is finalized.)*
+> <img width="1908" height="1018" alt="image" src="https://github.com/user-attachments/assets/3f3339c6-1d48-488a-90cc-bfd2f3770516" />
+<img width="1910" height="1010" alt="image" src="https://github.com/user-attachments/assets/3363caeb-eeef-4df0-9fbc-1897c0620104" />
+<img width="1887" height="933" alt="image" src="https://github.com/user-attachments/assets/5e62e97b-4f03-4f26-bea4-d87be2c3cc45" />
+<img width="1887" height="933" alt="image" src="https://github.com/user-attachments/assets/520fcb9c-1d3c-4d1c-bdb7-0b35895028eb" />
+<img width="1848" height="921" alt="image" src="https://github.com/user-attachments/assets/52afc445-d18f-4eb6-9ba2-488348b02a42" />
+
+
+
+
+
 
 ---
 
