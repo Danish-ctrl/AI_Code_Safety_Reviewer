@@ -1,0 +1,11 @@
+[project]
+name = "ai-code-safety-reviewer"
+version = "0.1.0"
+description = "AI-powered code safety reviewer with dashboard reports"
+requires-python = ">=3.10"
+dependencies = [
+    "openai"
+]
+
+[project.scripts]
+ai-reviewer = "scanner:main"
